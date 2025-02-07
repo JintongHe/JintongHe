@@ -11,7 +11,7 @@
 
 
 ## **2. Resume**  
-🔗 *[Resume Page]([www.linkedin.com/in/jonathan-he-628493248/](https://github.com/JintongHe/JintongHe/blob/main/Resume%20-%20He.pdf))*  
+🔗 *[Resume Page](https://github.com/JintongHe/JintongHe/blob/main/Resume%20-%20He.pdf)*  
 
 
 ## **3. Engineering Projects**  

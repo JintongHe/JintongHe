@@ -11,13 +11,10 @@
 
 
 ## **2. Resume**  
-📌 Attach a downloadable **one-page resume**  
-*(Ensure it's formatted cleanly and highlights key skills, education, and experiences.)*  
+🔗 *[Resume Page]([www.linkedin.com/in/jonathan-he-628493248/](https://github.com/JintongHe/JintongHe/blob/main/Resume%20-%20He.pdf))*  
 
----
 
 ## **3. Engineering Projects**  
-(Provide at least six detailed descriptions of projects, formatted for clarity and impact.)
 
 ### **Project 1: Defect Detection System for Wire Arc Additive Manufacturing (WAAM)**  
 📍 *University of Wollongong | Jul 2022 – Jul 2023*  
@@ -27,9 +24,7 @@
    - Extracted current and voltage signal features to improve precision by 5%.  
    - Presented project insights using **literature reviews** and **Matplotlib charts**.  
 
-📸 (Add an image or diagram of the model/system.)
 
----
 
 ### **Project 2: Pedestrian and Cyclist Recognition System (PACR)**  
 📍 *University of Wollongong | Feb 2022 – Nov 2022*  
@@ -39,9 +34,7 @@
    - Achieved **18 FPS detection rate**, improving road safety.  
    - Integrated hardware/software and optimized for performance under varying lighting conditions.  
 
-📸 (Include images of the hardware setup and results.)
 
----
 
 ### **Project 3: Satellite Image Object Detection**  
 📍 *Zhongke Xingqi Technology Co., Ltd. | Aug 2023 – Jun 2024*  
@@ -51,9 +44,7 @@
    - Achieved **90% precision and recall** in satellite image segmentation.  
    - Deployed models as **fast inference APIs**, reducing latency by 30%.  
 
-📸 (Show model performance on sample satellite images.)
 
----
 
 ### **Project 4: Data-Driven Advertising Strategy Optimization**  
 📍 *Feng Bian Technology Co., Ltd. | Oct 2021 – Jan 2022*  
@@ -63,40 +54,10 @@
    - Cleaned and analyzed survey data from **10,000+ customers**.  
    - Presented insights through **data visualizations for stakeholders**.  
 
-📸 (Include charts demonstrating data insights.)
 
----
 
-### **Project 5: [Placeholder for Additional Engineering Project]**  
-📌 *Add another technical project from coursework, internships, or personal research.*
 
----
+## **4. Justification Memo** *(For Submission Requirement)*  
+📌 *Placeholder*
 
-### **Project 6: [Placeholder for Personal/Leadership Project]**  
-📌 *Consider adding a leadership experience or extracurricular project to showcase your versatility.*
 
----
-
-## **4. Additional Sections (Optional)**  
-💡 **Leadership & Extracurriculars**  
-📌 *Briefly highlight any leadership roles, technical communities, or hackathon experiences.*  
-
-💡 **Blog/Publications (if any)**  
-📌 *Links to articles, research papers, or blog posts you have written.*  
-
-💡 **Contact & Social Media**  
-📌 *Links to GitHub, LinkedIn, and personal website (if available).*  
-
----
-
-## **5. Justification Memo** *(For Submission Requirement)*  
-📌 *Draft a one-page memo explaining why you chose the projects, the skills they highlight, and the design/layout choices made in your portfolio.*
-
----
-
-### **Next Steps:**  
-✅ Populate placeholders with actual content.  
-✅ Add images, project demos, and links for an engaging portfolio.  
-✅ Ensure a clean, intuitive design (use Google Sites, GitHub Pages, or WordPress).  
-
-Would you like help refining any specific sections? 🚀

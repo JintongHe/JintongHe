@@ -57,7 +57,7 @@
 
 
 
-## **4. Justification Memo** *(For Submission Requirement)*  
+## **4. Justification Memo** 
 📌 *Placeholder*
 
 

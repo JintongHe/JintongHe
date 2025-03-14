@@ -7,7 +7,11 @@
 
 ## **1. About Me**  
 
-📌 *Placeholder:*  
+I am a highly motivated student seeking an intership/full time opportunity in machine learning engineer/data scientist field. Currently doing Master degree in AI Engineering - Mechanical Engineering at Carnegie Mellon University. Have a robust background in machine learning and data analysis.
+
+During my tenure as a Machine Learning Engineer at Zhongke Xingqi Technology Co., Ltd., I led a team in developing high-precision object detection models on satellite images, achieving over 90% precision and recall. My efforts in optimizing model deployment using concurrent execution on multiple GPUs significantly reduced inference time, ensuring efficient and timely results. This hands-on experience, coupled with my expertise in Python, SQL, and various machine learning frameworks, equips me to integrate AI seamlessly to real-life challenges.
+
+In addition to my technical abilities, I am also committed to mentoring and knowledge sharing. At Zhongke Xingqi Technology, I mentored new employees in model deployment and optimization, fostering a collaborative and productive environment. I am confident that my passion for both learning and teaching will make me a valuable asset to the company.
 
 
 ## **2. Resume**  

@@ -20,14 +20,6 @@ In addition to my technical abilities, I am also committed to mentoring and know
 
 ## **3. Engineering Projects**  
 
-### **Project 1: Defect Detection System for Wire Arc Additive Manufacturing (WAAM)**  
-📍 *University of Wollongong | Jul 2022 – Jul 2023*  
-🔹 **Overview:** Developed a deep-learning-based defect detection system for WAAM, achieving a **99.71% F1 score**.  
-🔹 **Technologies Used:** Python, PyTorch, CNNs, Computer Vision  
-🔹 **Key Contributions:**  
-   - Extracted current and voltage signal features to improve precision by 5%.  
-   - Presented project insights using **literature reviews** and **Matplotlib charts**.
-   - 
 ### **Project 1: Deep Learning–Based Defect Detection System for Wire Arc Additive Manufacturing (WAAM)**
 📍 *University of Wollongong | Jul 2022 – Jul 2023*
 
@@ -37,11 +29,11 @@ In addition to my technical abilities, I am also committed to mentoring and know
 
 🔹 **My Contributions**:
 
-- **Feature Engineering & Modeling**: Extracted voltage and current signal features from the printing process to enhance detection accuracy, increasing the model’s F1 score by 5%.
+- **Feature Engineering & Modeling**: Extracted voltage and current signal features from the printing process to enhance detection accuracy, increasing the model’s F1 score by 5%
 
-- **Model Development**: Designed and trained a CNN-based classifier, achieving a final F1 score of 99.71% on the test dataset.
+- **Model Development**: Designed and trained a CNN-based classifier, achieving a final F1 score of 99.71% on the test dataset
 
-- **Visualization & Communication**: Conducted a comprehensive literature review to support model design choices and presented findings using Matplotlib-based charts and well-structured visuals for technical audiences.
+- **Visualization & Communication**: Conducted a comprehensive literature review to support model design choices and presented findings using Matplotlib-based charts and well-structured visuals for technical audiences
 
 
 

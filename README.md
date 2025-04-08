@@ -37,33 +37,49 @@ In addition to my technical abilities, I am also committed to mentoring and know
 
 
 
-### **Project 2: Pedestrian and Cyclist Recognition System (PACR)**  
+### Project 2: Real-Time Pedestrian and Cyclist Recognition System (PACR)  
 📍 *University of Wollongong | Feb 2022 – Nov 2022*  
-🔹 **Overview:** Designed a driver assistance system for real-time pedestrian and cyclist detection using **MobileNetV2 and IR-switching cameras**.  
-🔹 **Technologies Used:** Jetson Nano, Python, TensorFlow, OpenCV  
-🔹 **Key Contributions:**  
-   - Achieved **18 FPS detection rate**, improving road safety.  
-   - Integrated hardware/software and optimized for performance under varying lighting conditions.  
+
+**Overview:**  
+In response to rising urban traffic accidents, I developed a real-time pedestrian and cyclist recognition system to enhance driver awareness and road safety. The system was designed for driver assistance applications in low-cost embedded environments.
+
+**Technologies:** Jetson Nano · Python · TensorFlow · OpenCV
+
+**My Contributions:**  
+- **System Design & Implementation:** Built a lightweight object detection pipeline using **MobileNetV2** and integrated it with **IR-switching cameras** to maintain accuracy across diverse lighting conditions.  
+- **Performance Optimization:** Achieved a real-time detection speed of **18 FPS**, balancing precision and efficiency for embedded deployment.  
+- **Hardware-Software Integration:** Successfully implemented and tested the system on **Jetson Nano**, ensuring stable performance in both simulated and real-world scenarios.
 
 
 
-### **Project 3: Satellite Image Object Detection**  
+### **Project 3: Satellite Image Object Detection System**  
 📍 *Zhongke Xingqi Technology Co., Ltd. | Aug 2023 – Jun 2024*  
-🔹 **Overview:** Led a team to develop **YOLOv8 and ViT-based object detection models** for analyzing satellite images.  
-🔹 **Technologies Used:** PyTorch, Flask, GPU Optimization, Multi-threading  
-🔹 **Key Contributions:**  
-   - Achieved **90% precision and recall** in satellite image segmentation.  
-   - Deployed models as **fast inference APIs**, reducing latency by 30%.  
+
+**Overview:**  
+To support large-scale environmental monitoring and urban planning, I led a team in building high-precision object detection models for satellite image analysis. The project aimed to enhance the automation of remote sensing tasks, such as identifying land features and infrastructure.
+
+**Technologies:** PyTorch · YOLOv8 · Vision Transformers (ViT) · Flask · GPU Optimization · Multi-threading
+
+**My Contributions:**  
+- **Model Development:** Designed and fine-tuned deep learning models based on **YOLOv8** and **ViT**, achieving **90% precision and recall** on complex segmentation tasks across diverse terrain.  
+- **System Deployment:** Implemented high-throughput inference pipelines using **Flask APIs**, optimizing GPU utilization and reducing model latency by **30%** through multi-threading and batching strategies.  
+- **Team Leadership:** Directed a team of 4 engineers, coordinated sprint goals, and oversaw integration of model outputs into downstream analytics tools. 
 
 
 
 ### **Project 4: Data-Driven Advertising Strategy Optimization**  
 📍 *Feng Bian Technology Co., Ltd. | Oct 2021 – Jan 2022*  
-🔹 **Overview:** Conducted extensive data analysis to optimize company advertising strategies, improving **profitability by 8%**.  
-🔹 **Technologies Used:** Pandas, SQL, Seaborn, Matplotlib  
-🔹 **Key Contributions:**  
-   - Cleaned and analyzed survey data from **10,000+ customers**.  
-   - Presented insights through **data visualizations for stakeholders**.  
+
+**Overview:**  
+To enhance marketing efficiency and business outcomes, I conducted a comprehensive data analysis project aimed at refining advertising strategies. The goal was to translate customer insights into actionable recommendations, ultimately increasing **overall profitability by 8%**.
+
+**Technologies:** Pandas · SQL · Seaborn · Matplotlib
+
+**My Contributions:**  
+- **Data Cleaning & Analysis:** Processed and analyzed survey responses from over **10,000 customers**, identifying key behavioral trends and demographic patterns.  
+- **Insight Communication:** Designed and presented interactive **data visualizations** that guided advertising decision-making across departments.  
+- **Business Impact:** Recommended strategy adjustments that contributed to a measurable increase in campaign ROI and customer engagement.
+
 
 
 

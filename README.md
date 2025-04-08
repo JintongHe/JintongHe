@@ -30,7 +30,9 @@ In addition to my technical abilities, I am also committed to mentoring and know
    - 
 ### **Project 1: Deep Learning–Based Defect Detection System for Wire Arc Additive Manufacturing (WAAM)**
 📍 *University of Wollongong | Jul 2022 – Jul 2023*
+
 🔹 **Overview** To improve the safety and reliability of WAAM in industrial applications, I developed a defect detection system using deep learning techniques. The system aimed to identify defects in real-time during metal 3D printing, reducing waste and minimizing structural failures.
+
 🔹 **Technologies**: Python · PyTorch · Convolutional Neural Networks (CNNs) · Computer Vision
 
 🔹 **My Contributions**:

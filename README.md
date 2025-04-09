@@ -1,7 +1,7 @@
 # **Jintong (Jonathan) He – Engineering Portfolio**
 📍 *MS in AI Engineering | Carnegie Mellon University*  
 📧 *jintongh@andrew.cmu.edu*  
-🔗 *[LinkedIn Profile](www.linkedin.com/in/jonathan-he-628493248/)*  
+🔗 *[LinkedIn Profile](https://www.linkedin.com/in/jonathan-he-628493248/)*  
 
 ---
 
@@ -20,7 +20,20 @@ In addition to my technical abilities, I am also committed to mentoring and know
 
 ## **3. Engineering Projects**  
 
-### **Project 1: Deep Learning–Based Defect Detection System for Wire Arc Additive Manufacturing (WAAM)**
+### **Project 1: Satellite Image Object Detection System**  
+📍 *Zhongke Xingqi Technology Co., Ltd. | Aug 2023 – Jun 2024*  
+
+**Overview:**  
+To support large-scale environmental monitoring and urban planning, I led a team in building high-precision object detection models for satellite image analysis. The project aimed to enhance the automation of remote sensing tasks, such as identifying land features and infrastructure.
+
+**Technologies:** PyTorch · YOLOv8 · Vision Transformers (ViT) · Flask · GPU Optimization · Multi-threading
+
+**My Contributions:**  
+- **Model Development:** Designed and fine-tuned deep learning models based on **YOLOv8** and **ViT**, achieving **90% precision and recall** on complex segmentation tasks across diverse terrain.  
+- **System Deployment:** Implemented high-throughput inference pipelines using **Flask APIs**, optimizing GPU utilization and reducing model latency by **30%** through multi-threading and batching strategies.  
+- **Team Leadership:** Directed a team of 4 engineers, coordinated sprint goals, and oversaw integration of model outputs into downstream analytics tools. 
+
+### **Project 2: Deep Learning–Based Defect Detection System for Wire Arc Additive Manufacturing (WAAM)**
 📍 *University of Wollongong | Jul 2022 – Jul 2023*
 
 🔹 **Overview** To improve the safety and reliability of WAAM in industrial applications, I developed a defect detection system using deep learning techniques. The system aimed to identify defects in real-time during metal 3D printing, reducing waste and minimizing structural failures.
@@ -37,7 +50,7 @@ In addition to my technical abilities, I am also committed to mentoring and know
 
 
 
-### Project 2: Real-Time Pedestrian and Cyclist Recognition System (PACR)  
+### Project 3: Real-Time Pedestrian and Cyclist Recognition System (PACR)  
 📍 *University of Wollongong | Feb 2022 – Nov 2022*  
 
 **Overview:**  
@@ -49,21 +62,6 @@ In response to rising urban traffic accidents, I developed a real-time pedestria
 - **System Design & Implementation:** Built a lightweight object detection pipeline using **MobileNetV2** and integrated it with **IR-switching cameras** to maintain accuracy across diverse lighting conditions.  
 - **Performance Optimization:** Achieved a real-time detection speed of **18 FPS**, balancing precision and efficiency for embedded deployment.  
 - **Hardware-Software Integration:** Successfully implemented and tested the system on **Jetson Nano**, ensuring stable performance in both simulated and real-world scenarios.
-
-
-
-### **Project 3: Satellite Image Object Detection System**  
-📍 *Zhongke Xingqi Technology Co., Ltd. | Aug 2023 – Jun 2024*  
-
-**Overview:**  
-To support large-scale environmental monitoring and urban planning, I led a team in building high-precision object detection models for satellite image analysis. The project aimed to enhance the automation of remote sensing tasks, such as identifying land features and infrastructure.
-
-**Technologies:** PyTorch · YOLOv8 · Vision Transformers (ViT) · Flask · GPU Optimization · Multi-threading
-
-**My Contributions:**  
-- **Model Development:** Designed and fine-tuned deep learning models based on **YOLOv8** and **ViT**, achieving **90% precision and recall** on complex segmentation tasks across diverse terrain.  
-- **System Deployment:** Implemented high-throughput inference pipelines using **Flask APIs**, optimizing GPU utilization and reducing model latency by **30%** through multi-threading and batching strategies.  
-- **Team Leadership:** Directed a team of 4 engineers, coordinated sprint goals, and oversaw integration of model outputs into downstream analytics tools. 
 
 
 

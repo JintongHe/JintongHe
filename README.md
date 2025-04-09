@@ -31,7 +31,7 @@ To support large-scale environmental monitoring and urban planning, I led a team
 **My Contributions:**  
 - **Model Development:** Designed and fine-tuned deep learning models based on **YOLOv8** and **ViT**, achieving **90% precision and recall** on complex segmentation tasks across diverse terrain.  
 - **System Deployment:** Implemented high-throughput inference pipelines using **Flask APIs**, optimizing GPU utilization and reducing model latency by **30%** through multi-threading and batching strategies.  
-- **Team Leadership:** Directed a team of 4 engineers, coordinated sprint goals, and oversaw integration of model outputs into downstream analytics tools. 
+- **Team Leadership:** Directed a team of 4 engineers, leveraging Agile project management techniques for the integration of model outputs into downstream analytics tools. 
 
 ### **Project 2: Deep Learning–Based Defect Detection System for Wire Arc Additive Manufacturing (WAAM)**
 📍 *University of Wollongong | Jul 2022 – Jul 2023*

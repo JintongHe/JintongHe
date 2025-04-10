@@ -32,6 +32,9 @@ To support large-scale environmental monitoring and urban planning, I led a team
 - **Model Development:** Designed and fine-tuned deep learning models based on **YOLOv8** and **ViT**, achieving **90% precision and recall** on complex segmentation tasks across diverse terrain.  
 - **System Deployment:** Implemented high-throughput inference pipelines using **Flask APIs**, optimizing GPU utilization and reducing model latency by **30%** through multi-threading and batching strategies.  
 - **Team Leadership:** Directed a team of 4 engineers, leveraging Agile project management techniques for the integration of model outputs into downstream analytics tools. 
+![image](https://github.com/user-attachments/assets/11cf8152-8557-454b-9a56-59ec3677b019)
+![image](https://github.com/user-attachments/assets/49eaefd5-d6f8-4e3b-aaf1-cbd737e8739e)
+
 
 ### **Project 2: Deep Learning–Based Defect Detection System for Wire Arc Additive Manufacturing (WAAM)**
 📍 *University of Wollongong | Jul 2022 – Jul 2023*
@@ -47,7 +50,7 @@ To support large-scale environmental monitoring and urban planning, I led a team
 - **Model Development**: Designed and trained a CNN-based classifier, achieving a final F1 score of 99.71% on the test dataset
 
 - **Visualization & Communication**: Conducted a comprehensive literature review to support model design choices and presented findings using Matplotlib-based charts and well-structured visuals for technical audiences
-
+![Original size   Original size   Original size  poster presentation](https://github.com/user-attachments/assets/30d9f277-96a6-4b68-ad62-dfd80c58452b)
 
 
 ### Project 3: Real-Time Pedestrian and Cyclist Recognition System (PACR)  
@@ -63,7 +66,7 @@ In response to rising urban traffic accidents, I developed a real-time pedestria
 - **Performance Optimization:** Achieved a real-time detection speed of **18 FPS**, balancing precision and efficiency for embedded deployment.  
 - **Hardware-Software Integration:** Successfully implemented and tested the system on **Jetson Nano**, ensuring stable performance in both simulated and real-world scenarios.
 
-
+[![Product Demonstration](https://img.youtube.com/vi/iBDFa3QfMxI/0.jpg)](https://www.youtube.com/watch?v=iBDFa3QfMxI)
 
 ### **Project 4: Data-Driven Advertising Strategy Optimization**  
 📍 *Feng Bian Technology Co., Ltd. | Oct 2021 – Jan 2022*  

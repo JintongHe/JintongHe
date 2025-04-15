@@ -1,4 +1,4 @@
-# **Jintong (Jonathan) He – Engineering Portfolio**
+# **Jintong (Jonathan) He – Portfolio**
 📍 *MS in AI Engineering | Carnegie Mellon University*  
 📧 *jintongh@andrew.cmu.edu*  
 🔗 *[LinkedIn Profile](https://www.linkedin.com/in/jonathan-he-628493248/)*  
@@ -81,11 +81,5 @@ To enhance marketing efficiency and business outcomes, I conducted a comprehensi
 - **Insight Communication:** Designed and presented interactive **data visualizations** that guided advertising decision-making across departments.  
 - **Business Impact:** Recommended strategy adjustments that contributed to a measurable increase in campaign ROI and customer engagement.
 
-
-
-
-
-## **4. Justification Memo** 
-📌 *Placeholder*
 
 

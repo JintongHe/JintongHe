@@ -29,9 +29,9 @@ To support large-scale environmental monitoring and urban planning, I led a team
 **Technologies:** PyTorch · YOLOv8 · Vision Transformers (ViT) · Flask · GPU Optimization · Multi-threading
 
 **My Contributions:**  
-- **Model Development:** Designed and fine-tuned deep learning models based on **YOLOv8** and **ViT**, achieving **90% precision and recall** on complex segmentation tasks across diverse terrain.  
-- **System Deployment:** Implemented high-throughput inference pipelines using **Flask APIs**, optimizing GPU utilization and reducing model latency by **30%** through multi-threading and batching strategies.  
-- **Team Leadership:** Directed a team of 4 engineers, leveraging Agile project management techniques for the integration of model outputs into downstream analytics tools. 
+- **Model Development:** Designed and fine-tuned deep learning models based on **YOLOv8** and **ViT**, achieving **90% precision and recall** on complex segmentation tasks across diverse terrain
+- **System Deployment:** Implemented high-throughput inference pipelines using **Flask APIs**, optimizing GPU utilization and reducing model latency by **30%** through multi-threading and batching strategies
+- **Team Leadership:** Directed a team of 4 engineers, leveraging Agile project management techniques for the integration of model outputs into downstream analytics tools
 ![image](https://github.com/user-attachments/assets/11cf8152-8557-454b-9a56-59ec3677b019)
 ![image](https://github.com/user-attachments/assets/49eaefd5-d6f8-4e3b-aaf1-cbd737e8739e)
 
@@ -62,9 +62,9 @@ In response to rising urban traffic accidents, I developed a real-time pedestria
 **Technologies:** Jetson Nano · Python · TensorFlow · OpenCV
 
 **My Contributions:**  
-- **System Design & Implementation:** Built a lightweight object detection pipeline using **MobileNetV2** and integrated it with **IR-switching cameras** to maintain accuracy across diverse lighting conditions.  
-- **Performance Optimization:** Achieved a real-time detection speed of **18 FPS**, balancing precision and efficiency for embedded deployment.  
-- **Hardware-Software Integration:** Successfully implemented and tested the system on **Jetson Nano**, ensuring stable performance in both simulated and real-world scenarios.
+- **System Design & Implementation:** Built a lightweight object detection pipeline using **MobileNetV2** and integrated it with **IR-switching cameras** to maintain accuracy across diverse lighting conditions
+- **Performance Optimization:** Achieved a real-time detection speed of **18 FPS**, balancing precision and efficiency for embedded deployment
+- **Hardware-Software Integration:** Successfully implemented and tested the system on **Jetson Nano**, ensuring stable performance in both simulated and real-world scenarios
 
 [![Product Demonstration](https://img.youtube.com/vi/iBDFa3QfMxI/0.jpg)](https://www.youtube.com/watch?v=iBDFa3QfMxI)
 
@@ -72,14 +72,14 @@ In response to rising urban traffic accidents, I developed a real-time pedestria
 📍 *Feng Bian Technology Co., Ltd. | Oct 2021 – Jan 2022*  
 
 **Overview:**  
-To enhance marketing efficiency and business outcomes, I conducted a comprehensive data analysis project aimed at refining advertising strategies. The goal was to translate customer insights into actionable recommendations, ultimately increasing **overall profitability by 8%**.
+To enhance marketing efficiency and business outcomes, I conducted a comprehensive data analysis project aimed at refining advertising strategies for promoting beginner-friendly Python courses. The goal was to translate customer insights into actionable recommendations, ultimately increasing **overall profitability by 8%**.
 
 **Technologies:** Pandas · SQL · Seaborn · Matplotlib
 
 **My Contributions:**  
-- **Data Cleaning & Analysis:** Processed and analyzed survey responses from over **10,000 customers**, identifying key behavioral trends and demographic patterns.  
-- **Insight Communication:** Designed and presented interactive **data visualizations** that guided advertising decision-making across departments.  
-- **Business Impact:** Recommended strategy adjustments that contributed to a measurable increase in campaign ROI and customer engagement.
+- **Data Cleaning & Analysis:** Processed and analyzed survey responses from over **10,000 customers** using Pandas and SQL, identifying key behavioral trends and demographic patterns
+- **Insight Communication:** Designed and presented interactive **data visualizations** using Matplotlib and Seaborn that guided advertising decision-making across departments
+- **Business Impact:** Recommended strategy adjustments that contributed to a measurable increase in campaign ROI and customer engagement
 
 
 

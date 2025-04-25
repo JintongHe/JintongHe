@@ -1,85 +1,149 @@
-# **Jintong (Jonathan) He – Portfolio**
+# **Jintong (Jonathan) He – Portfolio**  
 📍 *MS in AI Engineering | Carnegie Mellon University*  
 📧 *jintongh@andrew.cmu.edu*  
 🔗 *[LinkedIn Profile](https://www.linkedin.com/in/jonathan-he-628493248/)*  
 
 ---
 
-## **1. About Me**  
+## **About Me**  
 
-I am a highly motivated student seeking an intership/full time opportunity in machine learning engineer/data scientist field. Currently doing Master degree in AI Engineering - Mechanical Engineering at Carnegie Mellon University. Have a robust background in machine learning and data analysis.
+I am a highly motivated AI engineering student seeking internship and full-time opportunities in **machine learning engineering** and **data science**. Currently pursuing a Master’s degree in **AI Engineering – Mechanical Engineering** at **Carnegie Mellon University**, I bring a strong foundation in **machine learning**, **computer vision**, and **data analytics**.
 
-During my tenure as a Machine Learning Engineer at Zhongke Xingqi Technology Co., Ltd., I led a team in developing high-precision object detection models on satellite images, achieving over 90% precision and recall. My efforts in optimizing model deployment using concurrent execution on multiple GPUs significantly reduced inference time, ensuring efficient and timely results. This hands-on experience, coupled with my expertise in Python, SQL, and various machine learning frameworks, equips me to integrate AI seamlessly to real-life challenges.
+As a Machine Learning Engineer at Zhongke Xingqi Technology Co., Ltd., I led a team to develop high-precision object detection models for satellite imagery, achieving over **90% precision and recall**. I also optimized GPU-based model deployment, significantly reducing inference time through parallelization strategies.  
 
-In addition to my technical abilities, I am also committed to mentoring and knowledge sharing. At Zhongke Xingqi Technology, I mentored new employees in model deployment and optimization, fostering a collaborative and productive environment. I am confident that my passion for both learning and teaching will make me a valuable asset to the company.
+Beyond technical skills, I value **mentorship** and **team collaboration**, having trained new engineers in deployment and optimization best practices. I am passionate about delivering robust AI solutions and fostering continuous learning environments.
 
+---
 
-## **2. Resume**  
-🔗 *[Resume Page](https://github.com/JintongHe/JintongHe/blob/main/Resume%20-%20He.pdf)*  
+## **Resume**  
+🔗 *[View My Resume](https://github.com/JintongHe/JintongHe/blob/main/Resume%20-%20He.pdf)*  
 
+---
 
-## **3. Engineering Projects**  
+## **Engineering Projects**  
 
-### **Project 1: Satellite Image Object Detection System**  
+### **Satellite Image Object Detection System**  
 📍 *Zhongke Xingqi Technology Co., Ltd. | Aug 2023 – Jun 2024*  
 
-**Overview:**  
-To support large-scale environmental monitoring and urban planning, I led a team in building high-precision object detection models for satellite image analysis. The project aimed to enhance the automation of remote sensing tasks, such as identifying land features and infrastructure.
+**Objective:**  
+Automate large-scale remote sensing tasks for environmental monitoring and urban planning using deep learning.
 
-**Technologies:** PyTorch · YOLOv8 · Vision Transformers (ViT) · Flask · GPU Optimization · Multi-threading
+**Technologies:** PyTorch · YOLOv8 · Vision Transformers (ViT) · Flask · GPU Optimization · Multi-threading  
 
-**My Contributions:**  
-- **Model Development:** Designed and fine-tuned deep learning models based on **YOLOv8** and **ViT**, achieving **90% precision and recall** on complex segmentation tasks across diverse terrain
-- **System Deployment:** Implemented high-throughput inference pipelines using **Flask APIs**, optimizing GPU utilization and reducing model latency by **30%** through multi-threading and batching strategies
-- **Team Leadership:** Directed a team of 4 engineers, leveraging Agile project management techniques for the integration of model outputs into downstream analytics tools
-![image](https://github.com/user-attachments/assets/11cf8152-8557-454b-9a56-59ec3677b019)
-![image](https://github.com/user-attachments/assets/49eaefd5-d6f8-4e3b-aaf1-cbd737e8739e)
+**Key Contributions:**  
+- **Model Development:** Designed and fine-tuned **YOLOv8** and **ViT-based models**, achieving **90% precision and recall** on diverse terrains.
+- **Deployment Optimization:** Built **Flask APIs** and applied **multi-threading** and **batching**, reducing inference latency by **30%**.
+- **Team Leadership:** Directed a **4-member team**, applying Agile practices for integration with downstream analytics pipelines.
 
+![Model Visualization](https://github.com/user-attachments/assets/11cf8152-8557-454b-9a56-59ec3677b019)
+![Deployment System](https://github.com/user-attachments/assets/49eaefd5-d6f8-4e3b-aaf1-cbd737e8739e)
 
-### **Project 2: Deep Learning–Based Defect Detection System for Wire Arc Additive Manufacturing (WAAM)**
-📍 *University of Wollongong | Jul 2022 – Jul 2023*
+---
 
-🔹 **Overview** To improve the safety and reliability of WAAM in industrial applications, I developed a defect detection system using deep learning techniques. The system aimed to identify defects in real-time during metal 3D printing, reducing waste and minimizing structural failures.
+### **Defect Detection System for Wire Arc Additive Manufacturing (WAAM)**  
+📍 *University of Wollongong | Jul 2022 – Jul 2023*  
 
-🔹 **Technologies**: Python · PyTorch · Convolutional Neural Networks (CNNs) · Computer Vision
+**Objective:**  
+Enhance the safety and efficiency of metal 3D printing through real-time defect detection.
 
-🔹 **My Contributions**:
+**Technologies:** Python · PyTorch · CNNs · Computer Vision  
 
-- **Feature Engineering & Modeling**: Extracted voltage and current signal features from the printing process to enhance detection accuracy, increasing the model’s F1 score by 5%
+**Key Contributions:**  
+- **Signal-Based Feature Engineering:** Extracted voltage and current features, boosting model F1 score by **5%**.
+- **Model Development:** Built a **CNN classifier** achieving **99.71% F1 score** on the test set.
+- **Research Communication:** Created technical visualizations and delivered a conference-level poster presentation.
 
-- **Model Development**: Designed and trained a CNN-based classifier, achieving a final F1 score of 99.71% on the test dataset
+![Poster Presentation](https://github.com/user-attachments/assets/30d9f277-96a6-4b68-ad62-dfd80c58452b)
 
-- **Visualization & Communication**: Conducted a comprehensive literature review to support model design choices and presented findings using Matplotlib-based charts and well-structured visuals for technical audiences
-![Original size   Original size   Original size  poster presentation](https://github.com/user-attachments/assets/30d9f277-96a6-4b68-ad62-dfd80c58452b)
+---
 
-
-### Project 3: Real-Time Pedestrian and Cyclist Recognition System (PACR)  
+### **Real-Time Pedestrian and Cyclist Recognition (PACR)**  
 📍 *University of Wollongong | Feb 2022 – Nov 2022*  
 
-**Overview:**  
-In response to rising urban traffic accidents, I developed a real-time pedestrian and cyclist recognition system to enhance driver awareness and road safety. The system was designed for driver assistance applications in low-cost embedded environments.
+**Objective:**  
+Develop a low-cost, real-time system to improve driver awareness and road safety.
 
-**Technologies:** Jetson Nano · Python · TensorFlow · OpenCV
+**Technologies:** Jetson Nano · Python · TensorFlow · OpenCV  
 
-**My Contributions:**  
-- **System Design & Implementation:** Built a lightweight object detection pipeline using **MobileNetV2** and integrated it with **IR-switching cameras** to maintain accuracy across diverse lighting conditions
-- **Performance Optimization:** Achieved a real-time detection speed of **18 FPS**, balancing precision and efficiency for embedded deployment
-- **Hardware-Software Integration:** Successfully implemented and tested the system on **Jetson Nano**, ensuring stable performance in both simulated and real-world scenarios
+**Key Contributions:**  
+- **Efficient Object Detection:** Developed a lightweight MobileNetV2-based model integrated with IR-switching cameras.
+- **Embedded System Optimization:** Achieved **18 FPS real-time inference** on **Jetson Nano**.
+- **Full System Integration:** Tested robustness under diverse urban and lighting conditions.
 
-[![Product Demonstration](https://img.youtube.com/vi/iBDFa3QfMxI/0.jpg)](https://www.youtube.com/watch?v=iBDFa3QfMxI)
+[![View Demonstration](https://img.youtube.com/vi/iBDFa3QfMxI/0.jpg)](https://www.youtube.com/watch?v=iBDFa3QfMxI)
 
-### **Project 4: Data-Driven Advertising Strategy Optimization**  
+---
+
+### **Data-Driven Advertising Strategy Optimization**  
 📍 *Feng Bian Technology Co., Ltd. | Oct 2021 – Jan 2022*  
 
-**Overview:**  
-To enhance marketing efficiency and business outcomes, I conducted a comprehensive data analysis project aimed at refining advertising strategies for promoting beginner-friendly Python courses. The goal was to translate customer insights into actionable recommendations, ultimately increasing **overall profitability by 8%**.
+**Objective:**  
+Refine advertising strategies for beginner Python courses to improve marketing ROI.
 
-**Technologies:** Pandas · SQL · Seaborn · Matplotlib
+**Technologies:** Pandas · SQL · Seaborn · Matplotlib  
 
-**My Contributions:**  
-- **Data Cleaning & Analysis:** Processed and analyzed survey responses from over **10,000 customers** using Pandas and SQL, identifying key behavioral trends and demographic patterns
-- **Insight Communication:** Designed and presented interactive **data visualizations** using Matplotlib and Seaborn that guided advertising decision-making across departments
-- **Business Impact:** Recommended strategy adjustments that contributed to a measurable increase in campaign ROI and customer engagement
+**Key Contributions:**  
+- **Data Cleaning and Analysis:** Processed and analyzed survey data from over **10,000 customers**.
+- **Insightful Visualization:** Created compelling visuals that influenced business strategy across departments.
+- **Business Impact:** Recommended optimizations leading to an **8% increase in profitability**.
+
+---
+
+# **Justification Memo**  
+
+**To:** Dr. Alan Thomas Kohler  
+**From:** Jonathan He  
+**Date:** April 25, 2025  
+**Subject:** Application of Communication Skills Learned in Class to Other Coursework  
+
+---
+
+## **Skills Learned**
+- **Assertion-Evidence Slide Design**
+- **IMRD (Introduction, Methods, Results, Discussion) Format**
+- **Effective Use of Hand Gestures**
+- **Known/New Information Structuring**
+
+---
+
+## **Application of Skills**
+
+### **1. Assertion-Evidence Slide Design**
+In course **24-665 (Wearable Health)**, I applied the assertion-evidence approach to all presentation slides. Instead of using vague titles, each slide began with a clear, declarative statement summarizing the key takeaway. This significantly improved audience comprehension and engagement. As a result, I earned a perfect score (**10/10**) on the presentation.
+
+---
+
+### **2. Effective Use of Hand Gestures**
+During the Wearable Health presentation, I deliberately used hand gestures to support my verbal communication:
+- **Topic Introduction Gesture:** Used a broad open-hand motion to introduce new topics.
+- **Bullet Emphasis Gesture:** Used finger-pointing motions to guide the audience through key bullet points.
+- **Summary Sweep Gesture:** Used a sweeping motion to summarize major takeaways.
+
+These gestures helped provide visual structure for the audience and emphasized key transitions during the talk.
+
+---
+
+### **3. IMRD Format in Report Writing**
+In course **24-782 (AI Engineering Project)**, our final report strictly followed the IMRD structure:
+- **Introduction:** Introduced the background of imitation learning and its relevance to humanoid locomotion.
+- **Methods:** Described our approach to applying imitation learning algorithms to train a walking agent.
+- **Results:** Presented experimental outcomes, performance metrics, and visual results.
+- **Discussion:** Analyzed the strengths, limitations, and proposed future work.
+
+This structure improved readability and made our logical progression clear to readers.
+
+---
+
+### **4. Known/New Information Structuring**
+Throughout the AI Engineering report, I applied the **known/new** strategy to improve coherence. For example, after explaining what imitation learning is (known), the next section naturally transitioned into how our team applied it (new). This technique made the report smoother and easier to follow.
+
+---
+
+## **Appendix**
+Attached materials:
+
+<img width="769" alt="{8FEF2984-FF63-4E4A-A561-51198A83167A}" src="https://github.com/user-attachments/assets/cc0dc6b7-a8d9-4e09-a984-98cb1942a111" />
+<img width="795" alt="{6E09E89F-EF9D-4B32-8478-410E2867FDDC}" src="https://github.com/user-attachments/assets/596c56f8-ab22-49ca-b037-694ef8d0b688" />
 
 
 
